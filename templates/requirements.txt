@@ -1,0 +1,6 @@
+Flask
+pdfplumber
+scikit-learn
+spacy
+google-generativeai
+google-genai
