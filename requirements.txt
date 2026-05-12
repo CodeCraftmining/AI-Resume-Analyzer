@@ -3,3 +3,4 @@ gunicorn
 PyPDF2
 google-genai
 pdfplumber
+scikit-learn
